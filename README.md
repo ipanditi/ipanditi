@@ -9,4 +9,4 @@
 [![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipanditi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipanditi&layout=compact&exclude_repo=git1,awesome-computer-vision,atlasreader,Stock-price-prediction-using-GAN,optimizers.numpy,bootstrap,Genetic-Algorithm-For-Training-Neural-Networks,awesome-computer-vision,Free-Courses-available-on-the-internet,ETHIndia,ipanditi.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipanditi&layout=compact&exclude_repo=git1,awesome-computer-vision,atlasreader,Stock-price-prediction-using-GAN,optimizers.numpy,bootstrap,Genetic-Algorithm-For-Training-Neural-Networks,awesome-computer-vision,Free-Courses-available-on-the-internet,ETHIndia,ipanditi.github.io&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
