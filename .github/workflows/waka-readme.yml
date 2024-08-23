@@ -1,39 +1,21 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
-
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-        # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: -> ░▒▓█
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: Vivek Pandit # optional
-          AUTHOR_EMAIL: vivekpanditdv@gmail.com # optional
-          # you can populate email-id with secrets instead
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_DAYS_OF_WEEK: False
+          SHOW_TIMEZONE: False
+          SHOW_LANGUAGE_PER_REPO: False
+          SHOW_SHORT_INFO: False
+          SHOW_LOC_CHART: False
+          IGNORED_REPOS: "git1,awesome-computer-vision,atlasreader,Stock-price-prediction-using-GAN,optimizers.numpy,bootstrap,Genetic-Algorithm-For-Training-Neural-Networks,awesome-computer-vision,Free-Courses-available-on-the-internet,ETHIndia,ipanditi.github.io,plots,AML,ML,Medical_Image_Processing,Facial-Expression-Detection,Clinical-Predictions,Data-Preprocessing,Complete-Python-3-Bootcamp,First-Language-Model,pandit_gpt,toon3-huddle01"
