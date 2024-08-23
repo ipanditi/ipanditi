@@ -10,6 +10,17 @@
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
+
+```txt
+From: 31 July 2024 - To: 22 August 2024
+
+Total Time: 28 hrs 22 mins
+
+Python            11 hrs 7 mins   ████████ ----------------   33.33 %
+C++               8 hrs 7 mins    ██████-------------------   24.33 %
+Other             5 hrs           ███▓---------------------   15.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## My Top Languages
