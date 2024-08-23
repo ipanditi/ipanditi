@@ -17,10 +17,6 @@ From: 15 August 2024 - To: 22 August 2024
 Total Time: 2 hrs 9 mins
 
 Other        4 hrs 54 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀-------   69.50 %
-C++          54 mins         ⣿⣿⣿ ---------------------   12.79 %
-Bash         34 mins         ⣿⣿>----------------------   08.26 %
-Terraform    22 mins         ⣿⣀-----------------------   05.32 %
-YAML         10 mins         ⣦------------------------   02.53 %
 ```
 
 <!--END_SECTION:waka-->
