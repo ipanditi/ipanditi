@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on LLMs and RAGs
-- 🌱 Learning to BUIDL with Python, C and C++ 
-- 🤔 Exploring Low-Level Programming using C/C++  
+- 🌱 Learning to BUIDL with Python, C++, Rust and Go 
+- 🤔 Exploring Low-Level Programming using C++ and Rust 
 - 📫 Reach me at my LinkedIn: https://www.linkedin.com/in/vivek-pandit-28681b206/
 
 ## My Stats
