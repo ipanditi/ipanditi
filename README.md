@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2023 - To: 29 September 2024
+From: 01 October 2023 - To: 30 September 2024
 
 Total Time: 38 hrs 3 mins
 
-Other             28 hrs 17 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦--------------   42.64 %
-Python            13 hrs 56 mins  ⣿⣿⣿⣿⣿ -------------------   21.01 %
-C++               8 hrs 56 mins   ⣿⣿⣿⣀---------------------   13.48 %
+Other             28 hrs 20 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦--------------   42.69 %
+Python            13 hrs 56 mins  ⣿⣿⣿⣿⣿ -------------------   21.00 %
+C++               8 hrs 56 mins   ⣿⣿⣿⣀---------------------   13.47 %
 Terraform         2 hrs 57 mins   ⣿>-----------------------   04.45 %
 JavaScript        2 hrs 50 mins   ⣿>-----------------------   04.28 %
 YAML              2 hrs 40 mins   ⣿------------------------   04.04 %
