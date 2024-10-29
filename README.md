@@ -12,19 +12,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2023 - To: 27 October 2024
+From: 29 October 2023 - To: 28 October 2024
 
-Total Time: 38 hrs 29 mins
+Total Time: 38 hrs 31 mins
 
-Other             42 hrs 33 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿>-----------   52.51 %
-Python            14 hrs 23 mins  ⣿⣿⣿⣿⣄--------------------   17.75 %
-C++               8 hrs 56 mins   ⣿⣿⣶----------------------   11.04 %
-Terraform         2 hrs 57 mins   ⣷------------------------   03.64 %
-JavaScript        2 hrs 50 mins   ⣷------------------------   03.50 %
-Rust              1 hr 38 mins    ⣤------------------------   02.02 %
-Java              1 hr 18 mins    ⣄------------------------   01.61 %
-Bash              1 hr 4 mins     ⣀------------------------   01.33 %
-SQL               41 mins          ------------------------   00.86 %
+Other             46 hrs 30 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦-----------   54.70 %
+Python            14 hrs 24 mins  ⣿⣿⣿⣿ --------------------   16.94 %
+C++               8 hrs 56 mins   ⣿⣿⣦----------------------   10.52 %
+Terraform         2 hrs 57 mins   ⣷------------------------   03.47 %
+JavaScript        2 hrs 50 mins   ⣷------------------------   03.34 %
+Rust              1 hr 38 mins    ⣄------------------------   01.93 %
+Java              1 hr 18 mins    ⣀------------------------   01.53 %
+Bash              1 hr 4 mins     ⣀------------------------   01.27 %
+SQL               41 mins          ------------------------   00.82 %
 ```
 
 <!--END_SECTION:waka-->
