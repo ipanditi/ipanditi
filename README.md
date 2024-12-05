@@ -12,19 +12,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2023 - To: 03 December 2024
+From: 05 December 2023 - To: 04 December 2024
 
-Total Time: 38 hrs 37 mins
+Total Time: 38 hrs 43 mins
 
-Other             76 hrs 39 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦--------   66.50 %
-Python            14 hrs 30 mins  ⣿⣿⣿>---------------------   12.58 %
-C++               8 hrs 56 mins   ⣿⣷-----------------------   07.76 %
-Terraform         2 hrs 57 mins   ⣦------------------------   02.56 %
-JavaScript        2 hrs 50 mins   ⣦------------------------   02.46 %
-Rust              1 hr 38 mins    ⣀------------------------   01.42 %
-Java              1 hr 18 mins    ⣀------------------------   01.13 %
-Bash              1 hr 4 mins      ------------------------   00.94 %
-SQL               41 mins         >------------------------   00.60 %
+Other             80 hrs 12 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷--------   67.45 %
+Python            14 hrs 36 mins  ⣿⣿⣿>---------------------   12.28 %
+C++               8 hrs 56 mins   ⣿⣷-----------------------   07.52 %
+Terraform         2 hrs 57 mins   ⣦------------------------   02.48 %
+JavaScript        2 hrs 50 mins   ⣤------------------------   02.39 %
+Rust              1 hr 38 mins    ⣀------------------------   01.38 %
+Java              1 hr 18 mins     ------------------------   01.10 %
+Bash              1 hr 4 mins      ------------------------   00.91 %
+SQL               41 mins         >------------------------   00.58 %
 ```
 
 <!--END_SECTION:waka-->
