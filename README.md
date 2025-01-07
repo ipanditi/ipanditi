@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2024 - To: 04 January 2025
+From: 06 January 2024 - To: 05 January 2025
 
 Total Time: 38 hrs 43 mins
 
-Other             88 hrs 22 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀-------   69.54 %
-Python            14 hrs 36 mins  ⣿⣿⣷----------------------   11.49 %
-C++               8 hrs 56 mins   ⣿⣶-----------------------   07.04 %
+Other             88 hrs 28 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄-------   69.56 %
+Python            14 hrs 36 mins  ⣿⣿⣷----------------------   11.48 %
+C++               8 hrs 56 mins   ⣿⣶-----------------------   07.03 %
 Terraform         2 hrs 57 mins   ⣤------------------------   02.32 %
 JavaScript        2 hrs 50 mins   ⣤------------------------   02.23 %
 Rust              1 hr 38 mins    ⣀------------------------   01.29 %
