@@ -12,19 +12,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2024 - To: 08 August 2025
+From: 09 August 2024 - To: 09 August 2025
 
-Total Time: 20 hrs 5 mins
+Total Time: 18 hrs 51 mins
 
-Other             111 hrs 21 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ---   84.72 %
-C++               4 hrs 40 mins   ⣷------------------------   03.56 %
-Python            4 hrs 12 mins   ⣶------------------------   03.21 %
-Terraform         2 hrs 57 mins   ⣤------------------------   02.25 %
-Rust              1 hr 38 mins    ⣀------------------------   01.25 %
-Bash              1 hr 6 mins      ------------------------   00.85 %
+Other             111 hrs 21 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀---   85.51 %
+Python            4 hrs 12 mins   ⣶------------------------   03.24 %
+C++               3 hrs 33 mins   ⣦------------------------   02.73 %
+Terraform         2 hrs 57 mins   ⣤------------------------   02.27 %
+Rust              1 hr 38 mins    ⣀------------------------   01.26 %
+Bash              1 hr 6 mins      ------------------------   00.86 %
 SQL               46 mins         >------------------------   00.60 %
-JavaScript        42 mins         >------------------------   00.53 %
-Makefile          33 mins         >------------------------   00.43 %
+JavaScript        41 mins         >------------------------   00.54 %
+Makefile          27 mins         >------------------------   00.35 %
 ```
 
 <!--END_SECTION:waka-->
