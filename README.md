@@ -12,18 +12,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2024 - To: 02 September 2025
+From: 03 September 2024 - To: 03 September 2025
 
-Total Time: 4 hrs 52 mins
+Total Time: 4 hrs 12 mins
 
-Other        103 hrs 26 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷-   95.50 %
-Rust         1 hr 38 mins    ⣀------------------------   01.51 %
-Python       1 hr 26 mins    ⣀------------------------   01.33 %
-C++          40 mins         >------------------------   00.62 %
-Terraform    13 mins         -------------------------   00.20 %
-Bash         8 mins          -------------------------   00.14 %
-Docker       5 mins          -------------------------   00.09 %
+Other        101 hrs 23 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿-   96.01 %
+Rust         1 hr 38 mins    ⣀------------------------   01.55 %
+Python       1 hr 26 mins    ⣀------------------------   01.37 %
+C++          31 mins         >------------------------   00.49 %
+Terraform    13 mins         -------------------------   00.21 %
 Text         3 mins          -------------------------   00.05 %
+Git Config   1 min           -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
