@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2024 - To: 11 September 2025
+From: 12 September 2024 - To: 12 September 2025
 
-Total Time: 2 hrs 54 mins
+Total Time: 2 hrs 23 mins
 
-Other        89 hrs 28 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿    96.85 %
-Rust         1 hr 38 mins    ⣄------------------------   01.77 %
-Python       53 mins          ------------------------   00.96 %
+Other        88 hrs 23 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   97.37 %
+Rust         1 hr 6 mins     ⣀------------------------   01.22 %
+Python       53 mins          ------------------------   00.98 %
 Text         3 mins          -------------------------   00.06 %
 Git Config   1 min           -------------------------   00.03 %
 ```
