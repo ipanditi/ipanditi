@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2024 - To: 01 December 2025
+From: 02 December 2024 - To: 02 December 2025
 
 Total Time: 5 mins
 
-Other    39 hrs 33 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.75 %
-Python   5 mins          >------------------------   00.25 %
+Other    36 hrs 5 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.73 %
+Python   5 mins          >------------------------   00.27 %
 ```
 
 <!--END_SECTION:waka-->
